@@ -13,3 +13,11 @@ Membres :
 - LEFEBVRE Nino
 - LASBENNES Lucas
 - CENES Gauthier
+
+----------------------
+Groupe : Fort-Homme
+Membres :
+- BERIAC Mathieu
+- BARREAU Romain
+- KOCHEÏDA Lucas
+- KHALFA Malik
